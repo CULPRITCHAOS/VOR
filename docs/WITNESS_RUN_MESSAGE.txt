@@ -1,0 +1,74 @@
+NEURALOGIX VOR WITNESS RUN — v0.7.3
+=====================================
+
+This message contains instructions to verify the NeuraLogix Verified Observation Runtime
+on a clean machine. The goal is to confirm that the public demo package produces
+deterministic, hallucination-free outputs under the audited conditions.
+
+PREREQUISITES
+-------------
+- Python 3.9+
+- Git
+- ~500MB disk space
+
+VERIFICATION COMMANDS (copy-paste block)
+-----------------------------------------
+# Clone and checkout the witness-green tag
+git clone https://github.com/CULPRITCHAOS/NUERALOGIX-H.git
+cd NUERALOGIX-H
+git checkout v0.7.3
+
+# Create clean virtual environment
+python -m venv .venv
+# Windows:
+.\.venv\Scripts\activate
+# macOS/Linux:
+# source .venv/bin/activate
+
+# Install package with test dependencies
+pip install -e .[dev]
+
+# Run full test suite (should pass with 150+ tests)
+pytest
+
+# Validate pack integrity
+neuralogix pack validate --pack data/packs/public_demo_v0_7_1
+neuralogix pack validate --pack data/packs/adversarial_v1
+
+# Run VOR audit (hallucination gate)
+neuralogix audit --fast
+
+EXPECTED OUTPUTS
+----------------
+1. pytest:       "150+ passed" (exact count may vary; 0 failures)
+2. pack validate: "Pack validated successfully" for each pack
+3. audit --fast:  "Hallucination Rate: 0.00%" across all strategies
+
+WHAT TO SEND BACK ON FAILURE
+----------------------------
+If any step fails, please capture:
+1. The exact command that failed
+2. The full console output (stdout + stderr)
+3. Your Python version: python --version
+4. Your OS and version
+5. The output of: git rev-parse HEAD
+
+Send to: Open a GitHub issue at https://github.com/CULPRITCHAOS/NUERALOGIX-H/issues and attach logs
+
+WHAT THIS PROVES
+----------------
+A successful witness run demonstrates:
+- The VOR kernel correctly rejects ungrounded observations
+- The Truth Gate produces 0% hallucination on audited packs
+- Evidence trails are cryptographically reproducible
+- The system abstains when evidence is insufficient (no fabrication)
+
+WHAT THIS DOES NOT INCLUDE
+--------------------------
+This public demo excludes:
+- Proprietary corpus ingestion pipelines
+- Internal/customer-specific evaluation packs
+- Pack generation recipes and gold-label construction
+- Domain-specific parsing extensions
+
+For questions, refer to: docs/WHAT_WE_KNOW.md

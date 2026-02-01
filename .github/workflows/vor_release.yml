@@ -1,0 +1,58 @@
+name: VOR Release
+
+on:
+    push:
+        tags:
+            - "v*"
+    workflow_dispatch:
+
+jobs:
+    witness:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install -e .[dev]
+
+            - name: Run full test suite
+              run: pytest -v --tb=short
+
+            - name: Validate public_demo pack
+              run: neuralogix pack validate --pack data/packs/public_demo_v0_7_1
+
+            - name: Validate adversarial pack
+              run: neuralogix pack validate --pack data/packs/adversarial_v1
+
+            - name: Full VOR audit
+              run: |
+                  neuralogix audit --fast 2>&1 | tee audit_output.txt
+                  echo "--- Audit Summary ---"
+                  cat audit_output.txt
+                  # Fail if hallucination > 0
+                  if grep -q "Hallucination (Max): 0.00%" audit_output.txt; then
+                    echo "✅ Witness PASS: 0% hallucination"
+                  else
+                    echo "❌ Witness FAIL: hallucination detected"
+                    exit 1
+                  fi
+
+            - name: Record witness proof
+              run: |
+                  echo "Tag: ${{ github.ref_name }}" > witness_proof.txt
+                  echo "SHA: ${{ github.sha }}" >> witness_proof.txt
+                  echo "Timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)" >> witness_proof.txt
+                  cat audit_output.txt >> witness_proof.txt
+
+            - name: Upload witness proof
+              uses: actions/upload-artifact@v4
+              with:
+                  name: witness-proof-${{ github.ref_name }}
+                  path: witness_proof.txt

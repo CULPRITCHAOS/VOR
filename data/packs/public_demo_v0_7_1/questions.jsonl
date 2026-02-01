@@ -1,0 +1,154 @@
+{"q_id": "q_amb_0", "question_text": "What is the Type of Project Phoenix?", "entity": "Project Phoenix", "attribute": "Type", "gold_decision": "ANSWER", "gold_value": "modernization effort"}
+{"q_id": "q_amb_1", "question_text": "What is the Version of Phoenix?", "entity": "Phoenix", "attribute": "Version", "gold_decision": "ANSWER", "gold_value": "v2.0"}
+{"q_id": "q_alias_0", "question_text": "What is the Status of the RC?", "entity": "NeuraLogix_v0_7_1", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Certified"}
+{"q_id": "q_conf_0", "question_text": "When is the launch date of Atlas?", "entity": "Atlas", "attribute": "launch date", "gold_decision": "CONFLICT", "gold_support": ["doc_conf_0", "doc_conf_1"]}
+{"q_id": "q_bulk_0", "question_text": "What is the Status of Project PJ_000?", "entity": "PJ_000", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_1", "question_text": "What is the Status of Project PJ_001?", "entity": "PJ_001", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_2", "question_text": "What is the Status of Project PJ_002?", "entity": "PJ_002", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_3", "question_text": "What is the Status of Project PJ_003?", "entity": "PJ_003", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_4", "question_text": "What is the Status of Project PJ_004?", "entity": "PJ_004", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_5", "question_text": "What is the Status of Project PJ_005?", "entity": "PJ_005", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_6", "question_text": "What is the Status of Project PJ_006?", "entity": "PJ_006", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_7", "question_text": "What is the Status of Project PJ_007?", "entity": "PJ_007", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_8", "question_text": "What is the Status of Project PJ_008?", "entity": "PJ_008", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_9", "question_text": "What is the Status of Project PJ_009?", "entity": "PJ_009", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_10", "question_text": "What is the Status of Project PJ_010?", "entity": "PJ_010", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_11", "question_text": "What is the Status of Project PJ_011?", "entity": "PJ_011", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_12", "question_text": "What is the Status of Project PJ_012?", "entity": "PJ_012", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_13", "question_text": "What is the Status of Project PJ_013?", "entity": "PJ_013", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_14", "question_text": "What is the Status of Project PJ_014?", "entity": "PJ_014", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_15", "question_text": "What is the Status of Project PJ_015?", "entity": "PJ_015", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_16", "question_text": "What is the Status of Project PJ_016?", "entity": "PJ_016", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_17", "question_text": "What is the Status of Project PJ_017?", "entity": "PJ_017", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_18", "question_text": "What is the Status of Project PJ_018?", "entity": "PJ_018", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_19", "question_text": "What is the Status of Project PJ_019?", "entity": "PJ_019", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_20", "question_text": "What is the Status of Project PJ_020?", "entity": "PJ_020", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_21", "question_text": "What is the Status of Project PJ_021?", "entity": "PJ_021", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_22", "question_text": "What is the Status of Project PJ_022?", "entity": "PJ_022", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_23", "question_text": "What is the Status of Project PJ_023?", "entity": "PJ_023", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_24", "question_text": "What is the Status of Project PJ_024?", "entity": "PJ_024", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_25", "question_text": "What is the Status of Project PJ_025?", "entity": "PJ_025", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_26", "question_text": "What is the Status of Project PJ_026?", "entity": "PJ_026", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_27", "question_text": "What is the Status of Project PJ_027?", "entity": "PJ_027", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_28", "question_text": "What is the Status of Project PJ_028?", "entity": "PJ_028", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_29", "question_text": "What is the Status of Project PJ_029?", "entity": "PJ_029", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_30", "question_text": "What is the Status of Project PJ_030?", "entity": "PJ_030", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_31", "question_text": "What is the Status of Project PJ_031?", "entity": "PJ_031", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_32", "question_text": "What is the Status of Project PJ_032?", "entity": "PJ_032", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_33", "question_text": "What is the Status of Project PJ_033?", "entity": "PJ_033", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_34", "question_text": "What is the Status of Project PJ_034?", "entity": "PJ_034", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_35", "question_text": "What is the Status of Project PJ_035?", "entity": "PJ_035", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_36", "question_text": "What is the Status of Project PJ_036?", "entity": "PJ_036", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_37", "question_text": "What is the Status of Project PJ_037?", "entity": "PJ_037", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_38", "question_text": "What is the Status of Project PJ_038?", "entity": "PJ_038", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_39", "question_text": "What is the Status of Project PJ_039?", "entity": "PJ_039", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_40", "question_text": "What is the Status of Project PJ_040?", "entity": "PJ_040", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_41", "question_text": "What is the Status of Project PJ_041?", "entity": "PJ_041", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_42", "question_text": "What is the Status of Project PJ_042?", "entity": "PJ_042", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_43", "question_text": "What is the Status of Project PJ_043?", "entity": "PJ_043", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_44", "question_text": "What is the Status of Project PJ_044?", "entity": "PJ_044", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_45", "question_text": "What is the Status of Project PJ_045?", "entity": "PJ_045", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_46", "question_text": "What is the Status of Project PJ_046?", "entity": "PJ_046", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_47", "question_text": "What is the Status of Project PJ_047?", "entity": "PJ_047", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_48", "question_text": "What is the Status of Project PJ_048?", "entity": "PJ_048", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_49", "question_text": "What is the Status of Project PJ_049?", "entity": "PJ_049", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_50", "question_text": "What is the Status of Project PJ_050?", "entity": "PJ_050", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_51", "question_text": "What is the Status of Project PJ_051?", "entity": "PJ_051", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_52", "question_text": "What is the Status of Project PJ_052?", "entity": "PJ_052", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_53", "question_text": "What is the Status of Project PJ_053?", "entity": "PJ_053", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_54", "question_text": "What is the Status of Project PJ_054?", "entity": "PJ_054", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_55", "question_text": "What is the Status of Project PJ_055?", "entity": "PJ_055", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_56", "question_text": "What is the Status of Project PJ_056?", "entity": "PJ_056", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_57", "question_text": "What is the Status of Project PJ_057?", "entity": "PJ_057", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_58", "question_text": "What is the Status of Project PJ_058?", "entity": "PJ_058", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_59", "question_text": "What is the Status of Project PJ_059?", "entity": "PJ_059", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_60", "question_text": "What is the Status of Project PJ_060?", "entity": "PJ_060", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_61", "question_text": "What is the Status of Project PJ_061?", "entity": "PJ_061", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_62", "question_text": "What is the Status of Project PJ_062?", "entity": "PJ_062", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_63", "question_text": "What is the Status of Project PJ_063?", "entity": "PJ_063", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_64", "question_text": "What is the Status of Project PJ_064?", "entity": "PJ_064", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_65", "question_text": "What is the Status of Project PJ_065?", "entity": "PJ_065", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_66", "question_text": "What is the Status of Project PJ_066?", "entity": "PJ_066", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_67", "question_text": "What is the Status of Project PJ_067?", "entity": "PJ_067", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_68", "question_text": "What is the Status of Project PJ_068?", "entity": "PJ_068", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_69", "question_text": "What is the Status of Project PJ_069?", "entity": "PJ_069", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_70", "question_text": "What is the Status of Project PJ_070?", "entity": "PJ_070", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_71", "question_text": "What is the Status of Project PJ_071?", "entity": "PJ_071", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_72", "question_text": "What is the Status of Project PJ_072?", "entity": "PJ_072", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_73", "question_text": "What is the Status of Project PJ_073?", "entity": "PJ_073", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_74", "question_text": "What is the Status of Project PJ_074?", "entity": "PJ_074", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_75", "question_text": "What is the Status of Project PJ_075?", "entity": "PJ_075", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_76", "question_text": "What is the Status of Project PJ_076?", "entity": "PJ_076", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_77", "question_text": "What is the Status of Project PJ_077?", "entity": "PJ_077", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_78", "question_text": "What is the Status of Project PJ_078?", "entity": "PJ_078", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_79", "question_text": "What is the Status of Project PJ_079?", "entity": "PJ_079", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_80", "question_text": "What is the Status of Project PJ_080?", "entity": "PJ_080", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_81", "question_text": "What is the Status of Project PJ_081?", "entity": "PJ_081", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_82", "question_text": "What is the Status of Project PJ_082?", "entity": "PJ_082", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_83", "question_text": "What is the Status of Project PJ_083?", "entity": "PJ_083", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_84", "question_text": "What is the Status of Project PJ_084?", "entity": "PJ_084", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_85", "question_text": "What is the Status of Project PJ_085?", "entity": "PJ_085", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_86", "question_text": "What is the Status of Project PJ_086?", "entity": "PJ_086", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_87", "question_text": "What is the Status of Project PJ_087?", "entity": "PJ_087", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_88", "question_text": "What is the Status of Project PJ_088?", "entity": "PJ_088", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_89", "question_text": "What is the Status of Project PJ_089?", "entity": "PJ_089", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_90", "question_text": "What is the Status of Project PJ_090?", "entity": "PJ_090", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_91", "question_text": "What is the Status of Project PJ_091?", "entity": "PJ_091", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_92", "question_text": "What is the Status of Project PJ_092?", "entity": "PJ_092", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_93", "question_text": "What is the Status of Project PJ_093?", "entity": "PJ_093", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_94", "question_text": "What is the Status of Project PJ_094?", "entity": "PJ_094", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_95", "question_text": "What is the Status of Project PJ_095?", "entity": "PJ_095", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_96", "question_text": "What is the Status of Project PJ_096?", "entity": "PJ_096", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_97", "question_text": "What is the Status of Project PJ_097?", "entity": "PJ_097", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_98", "question_text": "What is the Status of Project PJ_098?", "entity": "PJ_098", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_99", "question_text": "What is the Status of Project PJ_099?", "entity": "PJ_099", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_100", "question_text": "What is the Status of Project PJ_100?", "entity": "PJ_100", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_101", "question_text": "What is the Status of Project PJ_101?", "entity": "PJ_101", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_102", "question_text": "What is the Status of Project PJ_102?", "entity": "PJ_102", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_103", "question_text": "What is the Status of Project PJ_103?", "entity": "PJ_103", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_104", "question_text": "What is the Status of Project PJ_104?", "entity": "PJ_104", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_105", "question_text": "What is the Status of Project PJ_105?", "entity": "PJ_105", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_106", "question_text": "What is the Status of Project PJ_106?", "entity": "PJ_106", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_107", "question_text": "What is the Status of Project PJ_107?", "entity": "PJ_107", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_108", "question_text": "What is the Status of Project PJ_108?", "entity": "PJ_108", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_109", "question_text": "What is the Status of Project PJ_109?", "entity": "PJ_109", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_110", "question_text": "What is the Status of Project PJ_110?", "entity": "PJ_110", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_111", "question_text": "What is the Status of Project PJ_111?", "entity": "PJ_111", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_112", "question_text": "What is the Status of Project PJ_112?", "entity": "PJ_112", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_113", "question_text": "What is the Status of Project PJ_113?", "entity": "PJ_113", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_114", "question_text": "What is the Status of Project PJ_114?", "entity": "PJ_114", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_115", "question_text": "What is the Status of Project PJ_115?", "entity": "PJ_115", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_116", "question_text": "What is the Status of Project PJ_116?", "entity": "PJ_116", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_117", "question_text": "What is the Status of Project PJ_117?", "entity": "PJ_117", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_118", "question_text": "What is the Status of Project PJ_118?", "entity": "PJ_118", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_119", "question_text": "What is the Status of Project PJ_119?", "entity": "PJ_119", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_120", "question_text": "What is the Status of Project PJ_120?", "entity": "PJ_120", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_121", "question_text": "What is the Status of Project PJ_121?", "entity": "PJ_121", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_122", "question_text": "What is the Status of Project PJ_122?", "entity": "PJ_122", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_123", "question_text": "What is the Status of Project PJ_123?", "entity": "PJ_123", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_124", "question_text": "What is the Status of Project PJ_124?", "entity": "PJ_124", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_125", "question_text": "What is the Status of Project PJ_125?", "entity": "PJ_125", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_126", "question_text": "What is the Status of Project PJ_126?", "entity": "PJ_126", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_127", "question_text": "What is the Status of Project PJ_127?", "entity": "PJ_127", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_128", "question_text": "What is the Status of Project PJ_128?", "entity": "PJ_128", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_129", "question_text": "What is the Status of Project PJ_129?", "entity": "PJ_129", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_130", "question_text": "What is the Status of Project PJ_130?", "entity": "PJ_130", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_131", "question_text": "What is the Status of Project PJ_131?", "entity": "PJ_131", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_132", "question_text": "What is the Status of Project PJ_132?", "entity": "PJ_132", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_133", "question_text": "What is the Status of Project PJ_133?", "entity": "PJ_133", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_134", "question_text": "What is the Status of Project PJ_134?", "entity": "PJ_134", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_135", "question_text": "What is the Status of Project PJ_135?", "entity": "PJ_135", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_136", "question_text": "What is the Status of Project PJ_136?", "entity": "PJ_136", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_137", "question_text": "What is the Status of Project PJ_137?", "entity": "PJ_137", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_138", "question_text": "What is the Status of Project PJ_138?", "entity": "PJ_138", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_139", "question_text": "What is the Status of Project PJ_139?", "entity": "PJ_139", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_140", "question_text": "What is the Status of Project PJ_140?", "entity": "PJ_140", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_141", "question_text": "What is the Status of Project PJ_141?", "entity": "PJ_141", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_142", "question_text": "What is the Status of Project PJ_142?", "entity": "PJ_142", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}
+{"q_id": "q_bulk_143", "question_text": "What is the Status of Project PJ_143?", "entity": "PJ_143", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_144", "question_text": "What is the Status of Project PJ_144?", "entity": "PJ_144", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_145", "question_text": "What is the Status of Project PJ_145?", "entity": "PJ_145", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "On Hold"}
+{"q_id": "q_bulk_146", "question_text": "What is the Status of Project PJ_146?", "entity": "PJ_146", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_147", "question_text": "What is the Status of Project PJ_147?", "entity": "PJ_147", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Cancelled"}
+{"q_id": "q_bulk_148", "question_text": "What is the Status of Project PJ_148?", "entity": "PJ_148", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Active"}
+{"q_id": "q_bulk_149", "question_text": "What is the Status of Project PJ_149?", "entity": "PJ_149", "attribute": "status", "gold_decision": "ANSWER", "gold_value": "Completed"}

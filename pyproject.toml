@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neuralogix-core"
+version = "0.7.3"
+description = "Discrete, auditable cognition runtime with typed graph IR, checkers, and receipts"
+requires-python = ">=3.9"
+dependencies = [
+    "pytest>=7.0",
+    "numpy>=1.21",
+    "torch>=2.0",
+    "click>=8.0",
+    "fastapi>=0.100",
+    "uvicorn>=0.20",
+    "python-multipart>=0.0.6",
+]
+
+[project.scripts]
+neuralogix = "neuralogix.cli.main:cli"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black>=23.0",
+    "httpx>=0.24",
+]
+
+[tool.setuptools.packages.find]
+include = ["neuralogix*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--ignore=tests/legacy/"
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]

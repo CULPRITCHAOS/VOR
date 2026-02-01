@@ -1,0 +1,27 @@
+{
+    "pack_name": "adversarial_v1",
+    "version": "1.1.0",
+    "metadata": {
+        "aliases": {
+            "NYC": "New York City",
+            "New York City": "City of New York",
+            "Acme Labs": "Acme Laboratory",
+            "JS": "JavaScript",
+            "Intl.": "International"
+        }
+    },
+    "files": [
+        {
+            "path": "corpus.jsonl",
+            "sha256": "8659e3756bf14b9077788b4bf32d59abb13141f8aa5db02eba8b140a2c348c97"
+        },
+        {
+            "path": "questions.jsonl",
+            "sha256": "37883fe1a232069defb9265cf67fe61baa146746c04ce6323819aefdc0224411"
+        },
+        {
+            "path": "gold.jsonl",
+            "sha256": "700f07cd472b8f7fdf635c5fa3cb59e940e40c74317c6d9c540e2ce3749e7e6f"
+        }
+    ]
+}

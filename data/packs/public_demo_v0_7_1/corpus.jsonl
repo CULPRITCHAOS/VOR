@@ -1,0 +1,306 @@
+{"id": "doc_amb_0", "text": "Project Phoenix is a modernization effort for the legacy database."}
+{"id": "doc_amb_1", "text": "Phoenix v2.0 is the upcoming release scheduled for Q4."}
+{"id": "doc_alias_0", "text": "NeuraLogix v0.7.1 status is Certified."}
+{"id": "doc_alias_1", "text": "The latest Release Candidate is currently in the VOR stage."}
+{"id": "doc_conf_0", "text": "Atlas project launch date is set to 2026-06-01."}
+{"id": "doc_conf_1", "text": "Atlas launch has been delayed to 2026-07-15 per the latest steering memo."}
+{"id": "doc_bulk_0", "text": "Project PJ_000 current status is Active."}
+{"id": "doc_bulk_1", "text": "Project PJ_001 current status is Active."}
+{"id": "doc_bulk_2", "text": "Project PJ_002 current status is On Hold."}
+{"id": "doc_bulk_3", "text": "Project PJ_003 current status is Completed."}
+{"id": "doc_bulk_4", "text": "Project PJ_004 current status is Completed."}
+{"id": "doc_bulk_5", "text": "Project PJ_005 current status is Completed."}
+{"id": "doc_bulk_6", "text": "Project PJ_006 current status is Active."}
+{"id": "doc_bulk_7", "text": "Project PJ_007 current status is Active."}
+{"id": "doc_bulk_8", "text": "Project PJ_008 current status is Cancelled."}
+{"id": "doc_bulk_9", "text": "Project PJ_009 current status is Active."}
+{"id": "doc_bulk_10", "text": "Project PJ_010 current status is Active."}
+{"id": "doc_bulk_11", "text": "Project PJ_011 current status is Active."}
+{"id": "doc_bulk_12", "text": "Project PJ_012 current status is Completed."}
+{"id": "doc_bulk_13", "text": "Project PJ_013 current status is Completed."}
+{"id": "doc_bulk_14", "text": "Project PJ_014 current status is Active."}
+{"id": "doc_bulk_15", "text": "Project PJ_015 current status is Completed."}
+{"id": "doc_bulk_16", "text": "Project PJ_016 current status is Cancelled."}
+{"id": "doc_bulk_17", "text": "Project PJ_017 current status is Completed."}
+{"id": "doc_bulk_18", "text": "Project PJ_018 current status is Cancelled."}
+{"id": "doc_bulk_19", "text": "Project PJ_019 current status is On Hold."}
+{"id": "doc_bulk_20", "text": "Project PJ_020 current status is Active."}
+{"id": "doc_bulk_21", "text": "Project PJ_021 current status is Completed."}
+{"id": "doc_bulk_22", "text": "Project PJ_022 current status is Cancelled."}
+{"id": "doc_bulk_23", "text": "Project PJ_023 current status is On Hold."}
+{"id": "doc_bulk_24", "text": "Project PJ_024 current status is On Hold."}
+{"id": "doc_bulk_25", "text": "Project PJ_025 current status is Completed."}
+{"id": "doc_bulk_26", "text": "Project PJ_026 current status is Completed."}
+{"id": "doc_bulk_27", "text": "Project PJ_027 current status is On Hold."}
+{"id": "doc_bulk_28", "text": "Project PJ_028 current status is Active."}
+{"id": "doc_bulk_29", "text": "Project PJ_029 current status is Active."}
+{"id": "doc_bulk_30", "text": "Project PJ_030 current status is Cancelled."}
+{"id": "doc_bulk_31", "text": "Project PJ_031 current status is Active."}
+{"id": "doc_bulk_32", "text": "Project PJ_032 current status is On Hold."}
+{"id": "doc_bulk_33", "text": "Project PJ_033 current status is On Hold."}
+{"id": "doc_bulk_34", "text": "Project PJ_034 current status is On Hold."}
+{"id": "doc_bulk_35", "text": "Project PJ_035 current status is Active."}
+{"id": "doc_bulk_36", "text": "Project PJ_036 current status is Cancelled."}
+{"id": "doc_bulk_37", "text": "Project PJ_037 current status is Active."}
+{"id": "doc_bulk_38", "text": "Project PJ_038 current status is Cancelled."}
+{"id": "doc_bulk_39", "text": "Project PJ_039 current status is Active."}
+{"id": "doc_bulk_40", "text": "Project PJ_040 current status is On Hold."}
+{"id": "doc_bulk_41", "text": "Project PJ_041 current status is On Hold."}
+{"id": "doc_bulk_42", "text": "Project PJ_042 current status is Completed."}
+{"id": "doc_bulk_43", "text": "Project PJ_043 current status is Active."}
+{"id": "doc_bulk_44", "text": "Project PJ_044 current status is Active."}
+{"id": "doc_bulk_45", "text": "Project PJ_045 current status is Completed."}
+{"id": "doc_bulk_46", "text": "Project PJ_046 current status is On Hold."}
+{"id": "doc_bulk_47", "text": "Project PJ_047 current status is Active."}
+{"id": "doc_bulk_48", "text": "Project PJ_048 current status is Completed."}
+{"id": "doc_bulk_49", "text": "Project PJ_049 current status is Active."}
+{"id": "doc_bulk_50", "text": "Project PJ_050 current status is Cancelled."}
+{"id": "doc_bulk_51", "text": "Project PJ_051 current status is On Hold."}
+{"id": "doc_bulk_52", "text": "Project PJ_052 current status is Cancelled."}
+{"id": "doc_bulk_53", "text": "Project PJ_053 current status is On Hold."}
+{"id": "doc_bulk_54", "text": "Project PJ_054 current status is Completed."}
+{"id": "doc_bulk_55", "text": "Project PJ_055 current status is On Hold."}
+{"id": "doc_bulk_56", "text": "Project PJ_056 current status is On Hold."}
+{"id": "doc_bulk_57", "text": "Project PJ_057 current status is Completed."}
+{"id": "doc_bulk_58", "text": "Project PJ_058 current status is On Hold."}
+{"id": "doc_bulk_59", "text": "Project PJ_059 current status is Active."}
+{"id": "doc_bulk_60", "text": "Project PJ_060 current status is Completed."}
+{"id": "doc_bulk_61", "text": "Project PJ_061 current status is Completed."}
+{"id": "doc_bulk_62", "text": "Project PJ_062 current status is Completed."}
+{"id": "doc_bulk_63", "text": "Project PJ_063 current status is Cancelled."}
+{"id": "doc_bulk_64", "text": "Project PJ_064 current status is Cancelled."}
+{"id": "doc_bulk_65", "text": "Project PJ_065 current status is On Hold."}
+{"id": "doc_bulk_66", "text": "Project PJ_066 current status is Completed."}
+{"id": "doc_bulk_67", "text": "Project PJ_067 current status is On Hold."}
+{"id": "doc_bulk_68", "text": "Project PJ_068 current status is Active."}
+{"id": "doc_bulk_69", "text": "Project PJ_069 current status is Completed."}
+{"id": "doc_bulk_70", "text": "Project PJ_070 current status is Active."}
+{"id": "doc_bulk_71", "text": "Project PJ_071 current status is On Hold."}
+{"id": "doc_bulk_72", "text": "Project PJ_072 current status is Cancelled."}
+{"id": "doc_bulk_73", "text": "Project PJ_073 current status is On Hold."}
+{"id": "doc_bulk_74", "text": "Project PJ_074 current status is Active."}
+{"id": "doc_bulk_75", "text": "Project PJ_075 current status is Completed."}
+{"id": "doc_bulk_76", "text": "Project PJ_076 current status is On Hold."}
+{"id": "doc_bulk_77", "text": "Project PJ_077 current status is Completed."}
+{"id": "doc_bulk_78", "text": "Project PJ_078 current status is Cancelled."}
+{"id": "doc_bulk_79", "text": "Project PJ_079 current status is Cancelled."}
+{"id": "doc_bulk_80", "text": "Project PJ_080 current status is Cancelled."}
+{"id": "doc_bulk_81", "text": "Project PJ_081 current status is Completed."}
+{"id": "doc_bulk_82", "text": "Project PJ_082 current status is On Hold."}
+{"id": "doc_bulk_83", "text": "Project PJ_083 current status is Completed."}
+{"id": "doc_bulk_84", "text": "Project PJ_084 current status is Completed."}
+{"id": "doc_bulk_85", "text": "Project PJ_085 current status is On Hold."}
+{"id": "doc_bulk_86", "text": "Project PJ_086 current status is Cancelled."}
+{"id": "doc_bulk_87", "text": "Project PJ_087 current status is Cancelled."}
+{"id": "doc_bulk_88", "text": "Project PJ_088 current status is On Hold."}
+{"id": "doc_bulk_89", "text": "Project PJ_089 current status is Completed."}
+{"id": "doc_bulk_90", "text": "Project PJ_090 current status is Completed."}
+{"id": "doc_bulk_91", "text": "Project PJ_091 current status is Cancelled."}
+{"id": "doc_bulk_92", "text": "Project PJ_092 current status is Active."}
+{"id": "doc_bulk_93", "text": "Project PJ_093 current status is Active."}
+{"id": "doc_bulk_94", "text": "Project PJ_094 current status is Active."}
+{"id": "doc_bulk_95", "text": "Project PJ_095 current status is Completed."}
+{"id": "doc_bulk_96", "text": "Project PJ_096 current status is Completed."}
+{"id": "doc_bulk_97", "text": "Project PJ_097 current status is Cancelled."}
+{"id": "doc_bulk_98", "text": "Project PJ_098 current status is Active."}
+{"id": "doc_bulk_99", "text": "Project PJ_099 current status is Cancelled."}
+{"id": "doc_bulk_100", "text": "Project PJ_100 current status is Cancelled."}
+{"id": "doc_bulk_101", "text": "Project PJ_101 current status is Cancelled."}
+{"id": "doc_bulk_102", "text": "Project PJ_102 current status is On Hold."}
+{"id": "doc_bulk_103", "text": "Project PJ_103 current status is Active."}
+{"id": "doc_bulk_104", "text": "Project PJ_104 current status is Active."}
+{"id": "doc_bulk_105", "text": "Project PJ_105 current status is On Hold."}
+{"id": "doc_bulk_106", "text": "Project PJ_106 current status is On Hold."}
+{"id": "doc_bulk_107", "text": "Project PJ_107 current status is Active."}
+{"id": "doc_bulk_108", "text": "Project PJ_108 current status is On Hold."}
+{"id": "doc_bulk_109", "text": "Project PJ_109 current status is Cancelled."}
+{"id": "doc_bulk_110", "text": "Project PJ_110 current status is Completed."}
+{"id": "doc_bulk_111", "text": "Project PJ_111 current status is Cancelled."}
+{"id": "doc_bulk_112", "text": "Project PJ_112 current status is Active."}
+{"id": "doc_bulk_113", "text": "Project PJ_113 current status is On Hold."}
+{"id": "doc_bulk_114", "text": "Project PJ_114 current status is Completed."}
+{"id": "doc_bulk_115", "text": "Project PJ_115 current status is Active."}
+{"id": "doc_bulk_116", "text": "Project PJ_116 current status is On Hold."}
+{"id": "doc_bulk_117", "text": "Project PJ_117 current status is Completed."}
+{"id": "doc_bulk_118", "text": "Project PJ_118 current status is Completed."}
+{"id": "doc_bulk_119", "text": "Project PJ_119 current status is On Hold."}
+{"id": "doc_bulk_120", "text": "Project PJ_120 current status is Completed."}
+{"id": "doc_bulk_121", "text": "Project PJ_121 current status is Active."}
+{"id": "doc_bulk_122", "text": "Project PJ_122 current status is On Hold."}
+{"id": "doc_bulk_123", "text": "Project PJ_123 current status is Cancelled."}
+{"id": "doc_bulk_124", "text": "Project PJ_124 current status is Active."}
+{"id": "doc_bulk_125", "text": "Project PJ_125 current status is Active."}
+{"id": "doc_bulk_126", "text": "Project PJ_126 current status is On Hold."}
+{"id": "doc_bulk_127", "text": "Project PJ_127 current status is On Hold."}
+{"id": "doc_bulk_128", "text": "Project PJ_128 current status is Completed."}
+{"id": "doc_bulk_129", "text": "Project PJ_129 current status is Active."}
+{"id": "doc_bulk_130", "text": "Project PJ_130 current status is Completed."}
+{"id": "doc_bulk_131", "text": "Project PJ_131 current status is Active."}
+{"id": "doc_bulk_132", "text": "Project PJ_132 current status is Active."}
+{"id": "doc_bulk_133", "text": "Project PJ_133 current status is Cancelled."}
+{"id": "doc_bulk_134", "text": "Project PJ_134 current status is Active."}
+{"id": "doc_bulk_135", "text": "Project PJ_135 current status is Completed."}
+{"id": "doc_bulk_136", "text": "Project PJ_136 current status is Completed."}
+{"id": "doc_bulk_137", "text": "Project PJ_137 current status is Cancelled."}
+{"id": "doc_bulk_138", "text": "Project PJ_138 current status is Completed."}
+{"id": "doc_bulk_139", "text": "Project PJ_139 current status is On Hold."}
+{"id": "doc_bulk_140", "text": "Project PJ_140 current status is Cancelled."}
+{"id": "doc_bulk_141", "text": "Project PJ_141 current status is Completed."}
+{"id": "doc_bulk_142", "text": "Project PJ_142 current status is Completed."}
+{"id": "doc_bulk_143", "text": "Project PJ_143 current status is On Hold."}
+{"id": "doc_bulk_144", "text": "Project PJ_144 current status is Cancelled."}
+{"id": "doc_bulk_145", "text": "Project PJ_145 current status is On Hold."}
+{"id": "doc_bulk_146", "text": "Project PJ_146 current status is Cancelled."}
+{"id": "doc_bulk_147", "text": "Project PJ_147 current status is Cancelled."}
+{"id": "doc_bulk_148", "text": "Project PJ_148 current status is Active."}
+{"id": "doc_bulk_149", "text": "Project PJ_149 current status is Completed."}
+{"id": "doc_bulk_150", "text": "Project PJ_150 current status is Completed."}
+{"id": "doc_bulk_151", "text": "Project PJ_151 current status is Active."}
+{"id": "doc_bulk_152", "text": "Project PJ_152 current status is On Hold."}
+{"id": "doc_bulk_153", "text": "Project PJ_153 current status is Active."}
+{"id": "doc_bulk_154", "text": "Project PJ_154 current status is Completed."}
+{"id": "doc_bulk_155", "text": "Project PJ_155 current status is Completed."}
+{"id": "doc_bulk_156", "text": "Project PJ_156 current status is Active."}
+{"id": "doc_bulk_157", "text": "Project PJ_157 current status is Active."}
+{"id": "doc_bulk_158", "text": "Project PJ_158 current status is Active."}
+{"id": "doc_bulk_159", "text": "Project PJ_159 current status is Completed."}
+{"id": "doc_bulk_160", "text": "Project PJ_160 current status is Active."}
+{"id": "doc_bulk_161", "text": "Project PJ_161 current status is Active."}
+{"id": "doc_bulk_162", "text": "Project PJ_162 current status is On Hold."}
+{"id": "doc_bulk_163", "text": "Project PJ_163 current status is Active."}
+{"id": "doc_bulk_164", "text": "Project PJ_164 current status is Completed."}
+{"id": "doc_bulk_165", "text": "Project PJ_165 current status is On Hold."}
+{"id": "doc_bulk_166", "text": "Project PJ_166 current status is Cancelled."}
+{"id": "doc_bulk_167", "text": "Project PJ_167 current status is Completed."}
+{"id": "doc_bulk_168", "text": "Project PJ_168 current status is Completed."}
+{"id": "doc_bulk_169", "text": "Project PJ_169 current status is Cancelled."}
+{"id": "doc_bulk_170", "text": "Project PJ_170 current status is Completed."}
+{"id": "doc_bulk_171", "text": "Project PJ_171 current status is Cancelled."}
+{"id": "doc_bulk_172", "text": "Project PJ_172 current status is Cancelled."}
+{"id": "doc_bulk_173", "text": "Project PJ_173 current status is Completed."}
+{"id": "doc_bulk_174", "text": "Project PJ_174 current status is Active."}
+{"id": "doc_bulk_175", "text": "Project PJ_175 current status is Active."}
+{"id": "doc_bulk_176", "text": "Project PJ_176 current status is Cancelled."}
+{"id": "doc_bulk_177", "text": "Project PJ_177 current status is On Hold."}
+{"id": "doc_bulk_178", "text": "Project PJ_178 current status is Cancelled."}
+{"id": "doc_bulk_179", "text": "Project PJ_179 current status is Cancelled."}
+{"id": "doc_bulk_180", "text": "Project PJ_180 current status is Cancelled."}
+{"id": "doc_bulk_181", "text": "Project PJ_181 current status is Active."}
+{"id": "doc_bulk_182", "text": "Project PJ_182 current status is Active."}
+{"id": "doc_bulk_183", "text": "Project PJ_183 current status is Active."}
+{"id": "doc_bulk_184", "text": "Project PJ_184 current status is Cancelled."}
+{"id": "doc_bulk_185", "text": "Project PJ_185 current status is On Hold."}
+{"id": "doc_bulk_186", "text": "Project PJ_186 current status is Active."}
+{"id": "doc_bulk_187", "text": "Project PJ_187 current status is Completed."}
+{"id": "doc_bulk_188", "text": "Project PJ_188 current status is Completed."}
+{"id": "doc_bulk_189", "text": "Project PJ_189 current status is Completed."}
+{"id": "doc_bulk_190", "text": "Project PJ_190 current status is Cancelled."}
+{"id": "doc_bulk_191", "text": "Project PJ_191 current status is Completed."}
+{"id": "doc_bulk_192", "text": "Project PJ_192 current status is Cancelled."}
+{"id": "doc_bulk_193", "text": "Project PJ_193 current status is Completed."}
+{"id": "doc_bulk_194", "text": "Project PJ_194 current status is On Hold."}
+{"id": "doc_bulk_195", "text": "Project PJ_195 current status is Cancelled."}
+{"id": "doc_bulk_196", "text": "Project PJ_196 current status is Completed."}
+{"id": "doc_bulk_197", "text": "Project PJ_197 current status is Active."}
+{"id": "doc_bulk_198", "text": "Project PJ_198 current status is Cancelled."}
+{"id": "doc_bulk_199", "text": "Project PJ_199 current status is Active."}
+{"id": "doc_bulk_200", "text": "Project PJ_200 current status is Active."}
+{"id": "doc_bulk_201", "text": "Project PJ_201 current status is Active."}
+{"id": "doc_bulk_202", "text": "Project PJ_202 current status is Active."}
+{"id": "doc_bulk_203", "text": "Project PJ_203 current status is Completed."}
+{"id": "doc_bulk_204", "text": "Project PJ_204 current status is Completed."}
+{"id": "doc_bulk_205", "text": "Project PJ_205 current status is Cancelled."}
+{"id": "doc_bulk_206", "text": "Project PJ_206 current status is Cancelled."}
+{"id": "doc_bulk_207", "text": "Project PJ_207 current status is Cancelled."}
+{"id": "doc_bulk_208", "text": "Project PJ_208 current status is Completed."}
+{"id": "doc_bulk_209", "text": "Project PJ_209 current status is Cancelled."}
+{"id": "doc_bulk_210", "text": "Project PJ_210 current status is Active."}
+{"id": "doc_bulk_211", "text": "Project PJ_211 current status is Completed."}
+{"id": "doc_bulk_212", "text": "Project PJ_212 current status is Cancelled."}
+{"id": "doc_bulk_213", "text": "Project PJ_213 current status is Active."}
+{"id": "doc_bulk_214", "text": "Project PJ_214 current status is Cancelled."}
+{"id": "doc_bulk_215", "text": "Project PJ_215 current status is On Hold."}
+{"id": "doc_bulk_216", "text": "Project PJ_216 current status is Cancelled."}
+{"id": "doc_bulk_217", "text": "Project PJ_217 current status is On Hold."}
+{"id": "doc_bulk_218", "text": "Project PJ_218 current status is Cancelled."}
+{"id": "doc_bulk_219", "text": "Project PJ_219 current status is Cancelled."}
+{"id": "doc_bulk_220", "text": "Project PJ_220 current status is Completed."}
+{"id": "doc_bulk_221", "text": "Project PJ_221 current status is Completed."}
+{"id": "doc_bulk_222", "text": "Project PJ_222 current status is On Hold."}
+{"id": "doc_bulk_223", "text": "Project PJ_223 current status is Completed."}
+{"id": "doc_bulk_224", "text": "Project PJ_224 current status is Active."}
+{"id": "doc_bulk_225", "text": "Project PJ_225 current status is Active."}
+{"id": "doc_bulk_226", "text": "Project PJ_226 current status is On Hold."}
+{"id": "doc_bulk_227", "text": "Project PJ_227 current status is Active."}
+{"id": "doc_bulk_228", "text": "Project PJ_228 current status is Active."}
+{"id": "doc_bulk_229", "text": "Project PJ_229 current status is Cancelled."}
+{"id": "doc_bulk_230", "text": "Project PJ_230 current status is Completed."}
+{"id": "doc_bulk_231", "text": "Project PJ_231 current status is Active."}
+{"id": "doc_bulk_232", "text": "Project PJ_232 current status is Active."}
+{"id": "doc_bulk_233", "text": "Project PJ_233 current status is Completed."}
+{"id": "doc_bulk_234", "text": "Project PJ_234 current status is Active."}
+{"id": "doc_bulk_235", "text": "Project PJ_235 current status is Active."}
+{"id": "doc_bulk_236", "text": "Project PJ_236 current status is Completed."}
+{"id": "doc_bulk_237", "text": "Project PJ_237 current status is Cancelled."}
+{"id": "doc_bulk_238", "text": "Project PJ_238 current status is Active."}
+{"id": "doc_bulk_239", "text": "Project PJ_239 current status is Completed."}
+{"id": "doc_bulk_240", "text": "Project PJ_240 current status is Active."}
+{"id": "doc_bulk_241", "text": "Project PJ_241 current status is Active."}
+{"id": "doc_bulk_242", "text": "Project PJ_242 current status is Cancelled."}
+{"id": "doc_bulk_243", "text": "Project PJ_243 current status is On Hold."}
+{"id": "doc_bulk_244", "text": "Project PJ_244 current status is On Hold."}
+{"id": "doc_bulk_245", "text": "Project PJ_245 current status is Completed."}
+{"id": "doc_bulk_246", "text": "Project PJ_246 current status is On Hold."}
+{"id": "doc_bulk_247", "text": "Project PJ_247 current status is Completed."}
+{"id": "doc_bulk_248", "text": "Project PJ_248 current status is On Hold."}
+{"id": "doc_bulk_249", "text": "Project PJ_249 current status is Cancelled."}
+{"id": "doc_bulk_250", "text": "Project PJ_250 current status is Completed."}
+{"id": "doc_bulk_251", "text": "Project PJ_251 current status is On Hold."}
+{"id": "doc_bulk_252", "text": "Project PJ_252 current status is Cancelled."}
+{"id": "doc_bulk_253", "text": "Project PJ_253 current status is On Hold."}
+{"id": "doc_bulk_254", "text": "Project PJ_254 current status is Active."}
+{"id": "doc_bulk_255", "text": "Project PJ_255 current status is Active."}
+{"id": "doc_bulk_256", "text": "Project PJ_256 current status is Cancelled."}
+{"id": "doc_bulk_257", "text": "Project PJ_257 current status is Active."}
+{"id": "doc_bulk_258", "text": "Project PJ_258 current status is Active."}
+{"id": "doc_bulk_259", "text": "Project PJ_259 current status is Completed."}
+{"id": "doc_bulk_260", "text": "Project PJ_260 current status is On Hold."}
+{"id": "doc_bulk_261", "text": "Project PJ_261 current status is Completed."}
+{"id": "doc_bulk_262", "text": "Project PJ_262 current status is On Hold."}
+{"id": "doc_bulk_263", "text": "Project PJ_263 current status is Active."}
+{"id": "doc_bulk_264", "text": "Project PJ_264 current status is Completed."}
+{"id": "doc_bulk_265", "text": "Project PJ_265 current status is On Hold."}
+{"id": "doc_bulk_266", "text": "Project PJ_266 current status is On Hold."}
+{"id": "doc_bulk_267", "text": "Project PJ_267 current status is Completed."}
+{"id": "doc_bulk_268", "text": "Project PJ_268 current status is Cancelled."}
+{"id": "doc_bulk_269", "text": "Project PJ_269 current status is On Hold."}
+{"id": "doc_bulk_270", "text": "Project PJ_270 current status is Active."}
+{"id": "doc_bulk_271", "text": "Project PJ_271 current status is On Hold."}
+{"id": "doc_bulk_272", "text": "Project PJ_272 current status is Active."}
+{"id": "doc_bulk_273", "text": "Project PJ_273 current status is Completed."}
+{"id": "doc_bulk_274", "text": "Project PJ_274 current status is On Hold."}
+{"id": "doc_bulk_275", "text": "Project PJ_275 current status is Active."}
+{"id": "doc_bulk_276", "text": "Project PJ_276 current status is Active."}
+{"id": "doc_bulk_277", "text": "Project PJ_277 current status is Completed."}
+{"id": "doc_bulk_278", "text": "Project PJ_278 current status is On Hold."}
+{"id": "doc_bulk_279", "text": "Project PJ_279 current status is On Hold."}
+{"id": "doc_bulk_280", "text": "Project PJ_280 current status is Completed."}
+{"id": "doc_bulk_281", "text": "Project PJ_281 current status is On Hold."}
+{"id": "doc_bulk_282", "text": "Project PJ_282 current status is Completed."}
+{"id": "doc_bulk_283", "text": "Project PJ_283 current status is On Hold."}
+{"id": "doc_bulk_284", "text": "Project PJ_284 current status is Cancelled."}
+{"id": "doc_bulk_285", "text": "Project PJ_285 current status is On Hold."}
+{"id": "doc_bulk_286", "text": "Project PJ_286 current status is Active."}
+{"id": "doc_bulk_287", "text": "Project PJ_287 current status is Active."}
+{"id": "doc_bulk_288", "text": "Project PJ_288 current status is Cancelled."}
+{"id": "doc_bulk_289", "text": "Project PJ_289 current status is On Hold."}
+{"id": "doc_bulk_290", "text": "Project PJ_290 current status is Active."}
+{"id": "doc_bulk_291", "text": "Project PJ_291 current status is Active."}
+{"id": "doc_bulk_292", "text": "Project PJ_292 current status is On Hold."}
+{"id": "doc_bulk_293", "text": "Project PJ_293 current status is Completed."}
+{"id": "doc_bulk_294", "text": "Project PJ_294 current status is On Hold."}
+{"id": "doc_bulk_295", "text": "Project PJ_295 current status is Completed."}
+{"id": "doc_bulk_296", "text": "Project PJ_296 current status is Cancelled."}
+{"id": "doc_bulk_297", "text": "Project PJ_297 current status is Cancelled."}
+{"id": "doc_bulk_298", "text": "Project PJ_298 current status is Active."}
+{"id": "doc_bulk_299", "text": "Project PJ_299 current status is Active."}
