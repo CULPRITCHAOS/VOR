@@ -186,4 +186,4 @@ python -m neuralogix.h_surface.lint script.h
 Use the [Benchmark Report Template](docs/BENCHMARK_REPORT_TEMPLATE.md) to record standardized performance results, and reference the [Kill Tests](docs/KILLTESTS.md) and [Go/No-Go Audit](docs/GO_NO_GO.md) documentation when interpreting outcomes.
 
 ---
-*Audit conducted by Antigravity AI - Google Deepmind Advanced Agentic Coding.*
+
