@@ -106,15 +106,15 @@ For verification instructions, see [docs/WITNESS_RUN_MESSAGE.txt](docs/WITNESS_R
 
 ---
 
-## 🛠 Install (v0.7.3)
+## 🛠 Install (v0.7.3-public)
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/neuralogix.git
-cd neuralogix
+git clone https://github.com/CULPRITCHAOS/VOR.git
+cd VOR
 
-# Install in development mode
-pip install -e .
+# Install with development dependencies (REQUIRED for tests)
+pip install -e .[dev]
 ```
 
 ## 🚀 Quickstart (v0.7.1 CLI)
@@ -140,7 +140,7 @@ neuralogix pack validate --pack data/packs/public_demo_v0_7_1
 neuralogix api serve --port 8000
 ```
 
-> See [docs/WITNESS_RUN.md](docs/WITNESS_RUN.md) for witness instructions and [RELEASE_v0_7_1.md](docs/RELEASE_v0_7_1.md) for full documentation.
+> See [docs/WITNESS_RUN_MESSAGE.txt](docs/WITNESS_RUN_MESSAGE.txt) for witness instructions.
 
 ## 🧪 Verification Commands
 
