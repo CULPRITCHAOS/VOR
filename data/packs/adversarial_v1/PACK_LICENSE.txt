@@ -1,0 +1,1 @@
+This demo evaluation pack is licensed under the MIT License (see root LICENSE).

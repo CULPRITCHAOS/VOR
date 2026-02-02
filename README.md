@@ -35,6 +35,7 @@ NeuraLogix is built for external audit. All cognitive milestones are backed by c
     - **Append-Only Receipts**: Immutable hash-chains of every reasoning step.
     - **Residual Budgeting**: Dynamic thresholds to prevent OOD drift.
 
+
 ---
 
 ## 📊 RC Audit Performance Metrics

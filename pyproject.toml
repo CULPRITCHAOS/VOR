@@ -6,7 +6,19 @@ build-backend = "setuptools.build_meta"
 name = "neuralogix-core"
 version = "0.7.3"
 description = "Discrete, auditable cognition runtime with typed graph IR, checkers, and receipts"
+authors = [
+    { name = "Rob C (CULPRITCHAOS)" },
+]
+license = { text = "MIT" }
 requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
 dependencies = [
     "pytest>=7.0",
     "numpy>=1.21",
