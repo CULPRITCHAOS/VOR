@@ -21,7 +21,7 @@ NeuraLogix is built for external audit. All cognitive milestones are backed by c
 
 ---
 
-## 🚀 Key Features (v0.2)
+## 🚀 Key Features (v0.7.3)
 
 - **Honest Intelligence**: A system that knows when it does not know.
     - **Verifiable Codegen (Pilot A)**: Code that is proven to work by executable tests.
@@ -119,7 +119,7 @@ git checkout v0.7.3-public.1
 pip install -e .[dev]
 ```
 
-## 🚀 Quickstart (v0.7.1 CLI)
+## 🚀 Quickstart (v0.7.3 CLI)
 
 ### Run Demo Pack
 ```bash
