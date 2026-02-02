@@ -18,7 +18,7 @@ VERIFICATION COMMANDS (copy-paste block)
 ```powershell
 git clone https://github.com/CULPRITCHAOS/VOR.git
 cd VOR
-git checkout v0.7.3-public
+git checkout v0.7.3-public.1
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -e .[dev]   # REQUIRED: must use [dev] extras for test dependencies
@@ -33,7 +33,7 @@ neuralogix audit --fast
 ```bash
 git clone https://github.com/CULPRITCHAOS/VOR.git
 cd VOR
-git checkout v0.7.3-public
+git checkout v0.7.3-public.1
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .[dev]   # REQUIRED: must use [dev] extras for test dependencies

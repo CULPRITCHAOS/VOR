@@ -112,6 +112,7 @@ For verification instructions, see [docs/WITNESS_RUN_MESSAGE.txt](docs/WITNESS_R
 # Clone the repository
 git clone https://github.com/CULPRITCHAOS/VOR.git
 cd VOR
+git checkout v0.7.3-public.1
 
 # Install with development dependencies (REQUIRED for tests)
 pip install -e .[dev]
