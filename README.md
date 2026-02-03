@@ -4,6 +4,49 @@
 
 NeuraLogix is a production-grade **Verified Observation Runtime**. It provides a hallucination-free reasoning layer for LLMs and autonomous agents by treating every tool output as a proposed observation that must pass a hard verification gate.
 
+## How VOR Fixes AI Mistakes
+
+NeuraLogix stops AI from making errors using a system we call the **Truth Gate**.
+
+### The Problem: AI Guesses
+
+AI tools often make mistakes. They guess which word comes next in a sentence, but they do not check if the words are true. They sound sure of themselves even when they are wrong.
+
+### The Solution: The Truth Gate
+
+VOR acts like a filter. The AI must prove a statement is true before it speaks. It works in three steps:
+
+#### 1. The Facts
+
+First, we give VOR a list of true things.
+
+* **Fact A:** Alice is Bob's mother.
+* **Fact B:** Bob is Charlie's father.
+
+#### 2. The Claim
+
+The AI wants to say something new based on those facts.
+
+* **Claim:** "Alice is Charlie's grandmother."
+
+#### 3. The Check
+
+VOR looks at the facts. It checks if the facts link together to support the claim.
+
+* **VOR asks:** Is there a path from Alice to Bob? Is there a path from Bob to Charlie?
+* **Answer:** Yes.
+* **Result:** The statement is **Verified**. The AI allows the text.
+
+### When the AI is Wrong
+
+What happens if the AI tries to say: *"Alice is Dave's grandmother"*?
+
+* **VOR asks:** Do facts link Alice to Dave?
+* **Answer:** No.
+* **Result:** The statement is **Rejected**. VOR stops the AI from saying it.
+
+---
+
 ## The VOR Gate
 ```text
 [World] -> (Retriever) -> [Docs] -> (Parser) -> [TypedGraph] 
